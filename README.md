@@ -6,12 +6,11 @@ Software Engineer
 
 I am Jakub, a 16-year-old student that has a real passion for coding. My dream is to be a software engineer/mobile app developer. I am a fast learner, committed to lifelong learning. My main programming language is Python, but I want to learn other languages like Dart or C++. After 9-10 hours in school, I spend my free time watching YouTube videos about coding or I create my own projects. For some time I was also very interested in cryptocurrency, I learned how it works, but after I discovered Flutter I was slowly losing interest in it. I am curious about future technology and keen to learn about it and be part of it!
 
-* 🖥️  See my portfolio at [here](http://https://jakubsochacki06.github.io/website/)
+* 🖥️  See my portfolio [here](http://https://jakubsochacki06.github.io/website/)
 * ✉️  You can contact me at [jakubsochacki06@gmail.com](mailto:jakubsochacki06@gmail.com)
 * 🚀  I'm currently working on [Automatic Birthday Wisher CHANGE LATER](http://https://github.com/KuBuSxKuBa/automatic-birthday-wisher)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on with everybody
-
+* 🤝  I'm open to collaborating on every interesting project
 ### Skills
 
 <p align="left">
