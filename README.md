@@ -6,10 +6,9 @@ Mobile App Developer & Software Engineer
 
 I'm Jakub, an 18-year-old coding enthusiast with a passion for Flutter and mobile app development. From Python to Dart, I've always been eager to learn and create. After school, you'll find me coding or watching tutorials to level up my skills. Flutter has been a game-changer for me, allowing me to turn ideas into beautiful, cross-platform apps. My latest project, Outwork, helps users track routines, manage projects, and stay motivated with AI support. I'm excited about the future of tech and can't wait to be part of it!
 
-* 🖥️  See my portfolio [here](http://https://jakubsochacki06.github.io/website/)
 * ✉️  You can contact me at [jakubsochacki06@gmail.com](mailto:jakubsochacki06@gmail.com)
-* 🚀  I'm currently working on [Automatic Birthday Wisher CHANGE LATER](http://https://github.com/KuBuSxKuBa/automatic-birthday-wisher)
-* 🧠  I'm learning Flutter
+* 🚀  I'm currently working on [Outwork: Self-Improvement](http://https://outworkmobile.app)
+* 🧠  I want to learn Swift
 * 🤝  I'm open to collaborating on every interesting project
 ### Skills
 
