@@ -1,10 +1,10 @@
 Hi 👋 My name is Jakub Sochacki
 ===============================
 
-Software Engineer
+Mobile App Developer & Software Engineer
 -----------------
 
-I am Jakub, a 16-year-old student that has a real passion for coding. My dream is to be a software engineer/mobile app developer. I am a fast learner, committed to lifelong learning. My main programming language is Python, but I want to learn other languages like Dart or C++. After 9-10 hours in school, I spend my free time watching YouTube videos about coding or I create my own projects. For some time I was also very interested in cryptocurrency, I learned how it works, but after I discovered Flutter I was slowly losing interest in it. I am curious about future technology and keen to learn about it and be part of it!
+I'm Jakub, an 18-year-old coding enthusiast with a passion for Flutter and mobile app development. From Python to Dart, I've always been eager to learn and create. After school, you'll find me coding or watching tutorials to level up my skills. Flutter has been a game-changer for me, allowing me to turn ideas into beautiful, cross-platform apps. My latest project, Outwork, helps users track routines, manage projects, and stay motivated with AI support. I'm excited about the future of tech and can't wait to be part of it!
 
 * 🖥️  See my portfolio [here](http://https://jakubsochacki06.github.io/website/)
 * ✉️  You can contact me at [jakubsochacki06@gmail.com](mailto:jakubsochacki06@gmail.com)
